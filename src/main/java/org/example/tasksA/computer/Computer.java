@@ -16,14 +16,6 @@ public class Computer implements ComputerInterface {
         this.typeOS = typeOS;
     }
 
-    public void switchOn () {
-        System.out.println("Hello, my dear admin!");
-    }
-
-    public void switchOff () {
-        System.out.println("Good night...");
-    }
-
     public void virusTest () {
         String  capacityOfHDD = hardDisk.getCapacity();
 

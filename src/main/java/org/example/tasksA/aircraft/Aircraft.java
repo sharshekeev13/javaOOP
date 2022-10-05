@@ -1,6 +1,6 @@
 package org.example.tasksA.aircraft;
 
-public class Aircraft {
+public class Aircraft implements AircraftInterface {
     private Engine engine = null;
     private Chassis chassis = null;
     private Wing wing = null;

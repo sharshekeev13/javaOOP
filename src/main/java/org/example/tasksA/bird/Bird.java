@@ -1,6 +1,6 @@
 package org.example.tasksA.bird;
 
-public class Bird {
+public class Bird implements BirdInterface {
     private Wings wings;
     private String name;
     private Beak beak;

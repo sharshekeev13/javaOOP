@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Collections;
 import java.util.Comparator;
 
-public class TourBooking {
+public class TourBooking implements TourBookingInterface{
     
     public void chooseClient(List<Client> inventory, String client) throws RuntimeException{
        

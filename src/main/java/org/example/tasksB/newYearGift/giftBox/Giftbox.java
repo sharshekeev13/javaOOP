@@ -3,7 +3,7 @@ package org.example.tasksB.newYearGift.giftBox;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import com.hometask.candies.Confection;
+import org.example.tasksB.newYearGift.candies.Confection;
 
 public interface Giftbox {
 

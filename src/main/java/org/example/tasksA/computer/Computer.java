@@ -1,6 +1,6 @@
 package org.example.tasksA.computer;
 
-public class Computer {
+public class Computer implements ComputerInterface {
     private String name;
     private String model;
     private String typeOS;

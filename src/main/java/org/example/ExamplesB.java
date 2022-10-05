@@ -13,10 +13,13 @@ import java.util.List;
 public class ExamplesB {
 
 
+
+    //Aktan Djenaliev
     static void run2taskB(){
         Gift.createBox();
     }
 
+    //Kirill Molchanov
     static void run17taskB(){
         List<Tour> tour1=new ArrayList<>();
         List<Tour> tour2=new ArrayList<>();
@@ -40,6 +43,7 @@ public class ExamplesB {
         System.out.println(v2);
     }
 
+    //Timur Pratov
     static void run15taskB(){
         new TaxExtract().calculateAndShowTaxesExtract();
     }

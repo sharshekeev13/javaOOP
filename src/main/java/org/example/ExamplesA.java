@@ -10,6 +10,8 @@ import org.example.tasksA.dog.Dog;
 
 public class ExamplesA {
 
+
+    //Timur Pratov
     static void run3taskA(){
         Aircraft aircraft = new Aircraft("МС-21");
         aircraft.setEngine(new Engine("/nДвигатель: Турбовентиляторный двигатель 870 км/ч"));
@@ -18,6 +20,8 @@ public class ExamplesA {
         aircraft.getInfo();
     }
 
+
+    //Timur Pratovv
     static void run7taskA(){
         Processor processor = new Processor("Intel", 2);
         RAM ram = new RAM();
@@ -33,6 +37,8 @@ public class ExamplesA {
         myComp.switchOff();
     }
 
+
+    //Aktan Djenaliev
     static void run22taskA(){
         Bird bird = new Bird("Aktan");
         bird.eat();
@@ -41,6 +47,8 @@ public class ExamplesA {
         bird.sitDown();
     }
 
+
+    //Kirill Molchanov
     static void run10taskA(){
         Dog puppy=new Dog("Sirko");
         puppy.showName();

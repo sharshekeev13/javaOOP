@@ -1,0 +1,6 @@
+1. Snikers 2.99 50.0 Chocolate
+2. Mars     2.51 45.0 Chocolate
+3. Zephyr    6.1 80.1 Marshmallow
+4. American  8.5 95.5 Marshmallow
+5. Sand     1.99 30.0 Cookie
+6. Cracker  3.99 50.5 Cookie
